@@ -5,7 +5,7 @@ The Science of Can and Can’t sets out in nontechnical terms a new,
 counterfactual mode of explanation based on scientific and philosophical
 ideas that the author, Chiara Marletto, and I have pioneered. They provide
 new tools and new principles to address a number of notorious problems in
-physics and beyond. - 
+physics and beyond. - Marletto
 
 
 Since the Enlightenment, technological progress has depended specifically on the creation of explanatory knowledge.
