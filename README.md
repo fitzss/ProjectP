@@ -1,5 +1,10 @@
 # Pillur
-A project that encompasses a new mode of programming, A Counterfactual One
+A project that encompasses a new mode of programming, A Counterfactual One.
+
+A daring speculation is therefore that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties. 
+
+Exploring this possibility is the start of an **exciting research programme**.
+
 
 The Science of Can and Can’t sets out in nontechnical terms a new,
 counterfactual mode of explanation based on scientific and philosophical
