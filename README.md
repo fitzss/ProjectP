@@ -1,6 +1,8 @@
 # Pillur
 A project that encompasses a new mode of programming, A Counterfactual One
 
+Since the Enlightenment, technological progress has depended specifically on the creation of explanatory knowledge.
+
 
 Physical systems are objects that exist in the real world, which we attempt to describe via
 theory. In the mathematical sciences, we invoke mathematical objects (e.g. scalars, vectors, 
