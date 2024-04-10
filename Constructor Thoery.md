@@ -10,7 +10,7 @@ which involves changing an **attribute** from one **state** to another.
 
 A **constructor** for a **task T**
 is a **system** which whenever presented 
-with the substrate of the **substrate** of the** task T**
+with the substrate of the **substrate** of the ** task T**
 in one of the **input attributes**,
 it delivers it in one of the **states** 
 of the allowed **output attributes**,
