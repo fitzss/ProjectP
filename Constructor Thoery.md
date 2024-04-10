@@ -3,3 +3,17 @@ Constructor theory is a meta-theory with its own physical principles that are in
 **Constructor Theory** forms **Principles** about **counterfactuals** that are stated by saying what **tasks** are **possible**, what are **impossible**, and **why**.
 
 In constructor theory all laws of physics are stated by saying what tasks are possible, what are impossible, and why. They are principles, which underlie and supplement the existing most fundamental theories of physics.
+
+A **task** is a
+**specified physical transformation** on a **substrate**,
+which involves changing an **attribute** from one **state** to another.
+
+A **constructor** for a **task T**
+is a **system** which whenever presented 
+with the substrate of the **substrate** of the** task T**
+in one of the **input attributes**,
+it delivers it in one of the **states** 
+of the allowed **output attributes**,
+and **retains the ability to do that again**.
+
+
