@@ -30,8 +30,17 @@ only to the fact that
 
 This is what allows them to be **scale** **and** **dynamics** **independent**.
 
-
-
+Physical systems are objects that exist in the real world, 
+which we attempt to describe via theory.
+In the mathematical sciences, 
+we invoke mathematical objects (e.g. scalars, vectors, tensors)
+to represent the state of a physical system.
+To underscore this relation between
+physical objects that exist in the real world
+and the
+abstract objects used in their theoretical representation,
+I shallow follow in referring to those
+mathematical entities that represent the state of a system as the system's descriptors.  - Kuyper
 
 
 
