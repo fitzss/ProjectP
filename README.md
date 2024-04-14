@@ -28,8 +28,27 @@ theory. In the mathematical sciences, we invoke mathematical objects (e.g. scala
 tensors) to represent the state of a physical system. - Kuyper
 
 
-References:
+**References:**
 
 Chiara Marletto https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
 
 David Deutsch   https://www.daviddeutsch.org.uk/books/
+
+**Technologies:**
+Bash
+Git
+
+Cloud-Native:
+Kubernetes
+Tekton
+
+React
+
+Tensorflow
+Keras
+
+ROS 
+
+
+
+
