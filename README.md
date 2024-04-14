@@ -1,4 +1,11 @@
 # Pillur
+
+**The Problem**
+
+A ‘Job” is defined as the progress that an Institution is trying to make in a particular Problem Situation. 
+
+To me the most important features of a problem situation are: what technologies and innovations are in contention, what arguments have been advanced, and what technologies have been refuted. 
+
 A project that encompasses a new mode of programming, A Counterfactual One.
 
 A daring speculation is therefore that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties. 
