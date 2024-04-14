@@ -2,6 +2,12 @@
 
 **The Problem**
 
+A counterfactual mode of programming distributed systems that consists of Robotics and AI tasks.
+
+Problem with current AI programming is that:
+Assertions about probalitlies do not refer to the physical world they do not assert anything about the physical world. -Deutsch
+
+Current AI programs are about probability and do not refer to the physcial world and hence when creating applications that do like Robotics,so this entails a problems as they lack the full decription. ^^
 
 A project that encompasses a new mode of programming, A Counterfactual One.
 
