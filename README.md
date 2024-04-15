@@ -31,6 +31,14 @@ Physical systems are objects that exist in the real world, which we attempt to d
 theory. In the mathematical sciences, we invoke mathematical objects (e.g. scalars, vectors, 
 tensors) to represent the state of a physical system. - Kuyper
 
+Thus emergence is another beginning of infinity: all knowledge-creation
+depends on, and physically consists of, emergent phenomena.
+Emergence is also responsible for the fact that discoveries can be made in successive steps, thus providing scope for the scientific method. The partial success of each theory in a sequence of improving
+theories is tantamount to the existence of a ‘layer’ of phenomena that
+each theory explains successfully – though, as it then turns out, partly mistakenly.
+Successive scientific explanations are occasionally dissimilar in the
+way they explain their predictions, even in the domain where the
+predictions themselves are similar or identical. - Deutsch BOI
 
 **References:**
 
