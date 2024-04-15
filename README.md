@@ -42,6 +42,11 @@ David Deutsch   https://www.daviddeutsch.org.uk/books/
 
 Sam Kuyper https://ora.ox.ac.uk/objects/uuid:22cc9ee5-1425-4824-8a3a-242ac9b5f00f
 
+**Software:**
+
+Mauricio Salaboy https://www.salaboy.com/
+
+Andreas Bihlmaier https://www.manning.com/books/robotics-for-programmers
 
 
 **Technologies:**
