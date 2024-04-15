@@ -1,5 +1,5 @@
 # Pillur
-
+The goal with this right now is to formulate and try to put together a walking skeleton.
 **The Problem**
 
 A counterfactual mode of programming distributed systems that consists of Robotics and AI tasks.
