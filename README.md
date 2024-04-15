@@ -34,8 +34,7 @@ tensors) to represent the state of a physical system. - Kuyper
 
 **References:**
 
-**
-Physics:**
+**Physics:**
 
 Chiara Marletto https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
 
