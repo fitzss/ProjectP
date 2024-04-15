@@ -33,10 +33,16 @@ tensors) to represent the state of a physical system. - Kuyper
 
 
 **References:**
+**
+Physics:**
 
 Chiara Marletto https://www.chiaramarletto.com/books/the-science-of-can-and-cant/
 
 David Deutsch   https://www.daviddeutsch.org.uk/books/
+
+Sam Kuyper https://ora.ox.ac.uk/objects/uuid:22cc9ee5-1425-4824-8a3a-242ac9b5f00f
+
+
 
 **Technologies:**
 Bash
