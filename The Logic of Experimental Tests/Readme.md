@@ -3,7 +3,7 @@ inapplicable to Everettian quantum theory, and hence that the theory is
 untestable, are due to misconceptions about **probability** and about the
 **logic of experimental testing**.
 
-(My guess is that these misconceptions also hinder the curation and growth of developing AI Programs)
+(My guess is that these misconceptions also hinder the curation and growth of developing **AI** Programs)
 
 Refuting those claims by correcting those
 misconceptions leads to an improved theory of scientific methodology
@@ -19,7 +19,7 @@ testability of various versions of quantum theory have approached the matter
 indirectly, in terms of support or confirmation – asking how our credence (degree of
 belief) for a theory should be changed by experiencing results of experiments.
 
-(Prevailing discussions of the testability of various versions of quantum theory have approached the matter indirectly,
+(Prevailing discussions of the testability of various versions of **AI**Programming have approached the matter indirectly,
 
 in terms of support or confirmation – asking how our credence (degree of belief) for a theory should be changed by experiencing results of experiments.)
 
