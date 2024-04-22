@@ -19,7 +19,7 @@ testability of various versions of quantum theory have approached the matter
 indirectly, in terms of support or confirmation – asking how our credence (degree of
 belief) for a theory should be changed by experiencing results of experiments.
 
-(Prevailing discussions of the testability of various versions of **AI**Programming have approached the matter indirectly,
+(Prevailing discussions of the testability of various versions of **AI** Programming have approached the matter indirectly,
 
 in terms of support or confirmation – asking how our credence (degree of belief) for a theory should be changed by experiencing results of experiments.)
 
