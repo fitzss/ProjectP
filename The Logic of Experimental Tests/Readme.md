@@ -1,7 +1,8 @@
 Claims that the standard procedure for testing scientific theories is
 inapplicable to Everettian quantum theory, and hence that the theory is
 untestable, are due to misconceptions about probability and about the
-logic of experimental testing. Refuting those claims by correcting those
+logic of experimental testing. 
+Refuting those claims by correcting those
 misconceptions leads to an improved theory of scientific methodology
 (based on Popper’s) and testing, which allows various simplifications,
 notably the elimination of everything probabilistic from the
