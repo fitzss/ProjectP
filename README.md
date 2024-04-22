@@ -1,9 +1,5 @@
 # Pillur
-This project is about refuting misconceptions about probability and curating a daring speculation that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties.
-
-The goal with this right now is to formulate and try to put together a walking skeleton.
-
-A project that encompasses a new mode of programming, A Counterfactual One.
+A project that encompasses a Counterfactual book of fundamental physics and gives way to emphasizing a new way of programming. 
 
 While also providing an improved theory of development (based on Popper’s) and testing (based on Deutsch's), 
 
@@ -13,8 +9,7 @@ notably the elimination of everything probabilistic from the methodology (‘Bay
 
 The goal with this right now is to formulate and try to put together a walking skeleton, where a developers can express and manage their tasks in a Can and Cant language.
 
-
-
+This project is about refuting misconceptions about probability and curating a daring speculation that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties.
 
 
 
