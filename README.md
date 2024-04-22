@@ -9,7 +9,9 @@ notably the elimination of everything probabilistic from the methodology (‘Bay
 
 The goal with this right now is to formulate and try to put together a walking skeleton, where a developers can express and manage their tasks in a Can and Cant language.
 
-This project is about refuting misconceptions about probability and curating a daring speculation that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties.
+**Problem-Situation**
+This project is about refuting misconceptions about probability and curating a daring speculation that a new programming language would entail
+all the laws of physics being formulated solely in terms of principles about counterfactuals, and that the AI and Robotic Programs follow from them as derivative, and perhaps approximate, properties.
 
 
 
