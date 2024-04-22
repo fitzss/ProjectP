@@ -1,5 +1,4 @@
 Claims that the standard procedure for testing scientific theories is inapplicable to Everettian quantum theory,
-
 and hence that the theory is untestable,
 
 are due to misconceptions about probability and about the logic of experimental testing. 
