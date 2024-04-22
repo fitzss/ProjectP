@@ -3,9 +3,6 @@ This project is about refuting misconceptions about probability and curating a d
 
 The goal with this right now is to formulate and try to put together a walking skeleton.
 
-**The Problem**
-
-
 A project that encompasses a new mode of programming, A Counterfactual One.
 
 While also providing an improved theory of development (based on Popper’s) and testing (based on Deutsch's), 
@@ -13,6 +10,11 @@ While also providing an improved theory of development (based on Popper’s) and
 which allows various simplifications, 
 
 notably the elimination of everything probabilistic from the methodology (‘Bayesian’ credences) and from fundamental physics (stochastic processes), and from current AI Programming fundamentalness.
+
+The goal with this right now is to formulate and try to put together a walking skeleton, where a developers can express and manage their tasks in a Can and Cant language.
+
+
+
 
 
 
