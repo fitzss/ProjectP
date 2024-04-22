@@ -12,7 +12,16 @@ Current AI programs are about probability and do not refer to the physcial world
 
 A project that encompasses a new mode of programming, A Counterfactual One.
 
-A daring speculation is therefore that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties. 
+While also providing an improved theory of scientific methodology (based on Popper’s) and testing, 
+
+which allows various simplifications, 
+
+notably the elimination of everything probabilistic from the methodology (‘Bayesian’ credences) and from fundamental physics (stochastic processes), and from current AI Programming.
+
+Not only is this project about refuting misconceptions about probability and about the logic of experimental testing but also about curating a daring speculation that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties. 
+
+
+
 
 Exploring this possibility is the start of an **exciting research programme**.
 
