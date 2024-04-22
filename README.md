@@ -1,5 +1,4 @@
 # Pillur
-A project that encompasses a Counterfactual book of fundamental physics and gives way to emphasizing a new way of programming. 
 
 Providing an improved theory of software development (based on Popper’s) and testing (based on Deutsch's), 
 
