@@ -18,7 +18,7 @@ which allows various simplifications,
 
 notably the elimination of everything probabilistic from the methodology (‘Bayesian’ credences) and from fundamental physics (stochastic processes), and from current AI Programming.
 
-Not only is this project about refuting misconceptions about probability and about the logic of experimental testing but also about curating a daring speculation that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties. 
+Not only is this project about refuting misconceptions about probability and about testing but also about curating a daring speculation that all the laws of physics could be formulated solely in terms of principles about counterfactuals, and that the laws of motion follow from them as derivative, and perhaps approximate, properties. 
 
 
 
