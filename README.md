@@ -10,7 +10,7 @@ The goal with this right now is to formulate and try to put together a walking s
 **Problem-Situation**
 Refuting misconceptions about probability and testing, and curating a daring speculation that a new programming language could be formulated solely in terms of principles about counterfactuals, and that the AI and Robotic Programs would follow from them as derivative, and perhaps approximate, properties.  
 
-**Quotes**
+**Quotes:**
 
 One comparatively simple and comprehensible theory can cover an infinity of indigestible facts.
 
