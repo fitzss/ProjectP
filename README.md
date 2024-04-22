@@ -1,7 +1,7 @@
 # Pillur
 A project that encompasses a Counterfactual book of fundamental physics and gives way to emphasizing a new way of programming. 
 
-While also providing an improved theory of development (based on Popper’s) and testing (based on Deutsch's), 
+Providing an improved theory of development (based on Popper’s) and testing (based on Deutsch's), 
 
 which allows various simplifications, 
 
