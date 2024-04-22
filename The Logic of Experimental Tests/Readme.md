@@ -19,6 +19,10 @@ testability of various versions of quantum theory have approached the matter
 indirectly, in terms of support or confirmation – asking how our credence (degree of
 belief) for a theory should be changed by experiencing results of experiments.
 
+(Prevailing discussions of the testability of various versions of quantum theory have approached the matter indirectly,
+
+in terms of support or confirmation – asking how our credence (degree of belief) for a theory should be changed by experiencing results of experiments.)
+
 However, experimental confirmation is a philosophically contentious concept.
 Notably, it is rejected root and branch by Popper (1959). I shall present an account of
 the nature and methodology of scientific testing that closely follows Popper’s. 
