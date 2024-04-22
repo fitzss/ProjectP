@@ -3,6 +3,8 @@ inapplicable to Everettian quantum theory, and hence that the theory is
 untestable, are due to misconceptions about **probability** and about the
 **logic of experimental testing**.
 
+(My guess is that these misconceptions also hinder the curation and growth of developing AI Programs)
+
 Refuting those claims by correcting those
 misconceptions leads to an improved theory of scientific methodology
 (based on Popper’s) and testing, which allows various simplifications,
