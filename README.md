@@ -8,11 +8,11 @@ The goal with this right now is to formulate and try to put together a walking s
 
 A project that encompasses a new mode of programming, A Counterfactual One.
 
-While also providing an improved theory of scientific methodology (based on Popper’s) and testing, 
+While also providing an improved theory of development (based on Popper’s) and testing (based on Deutsch's), 
 
 which allows various simplifications, 
 
-notably the elimination of everything probabilistic from the methodology (‘Bayesian’ credences) and from fundamental physics (stochastic processes), and from current AI Programming.
+notably the elimination of everything probabilistic from the methodology (‘Bayesian’ credences) and from fundamental physics (stochastic processes), and from current AI Programming fundamentalness.
 
 
 
