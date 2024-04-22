@@ -1,9 +1,8 @@
 # Pillur
 This project is about applyling constructor theory to programming, 
-and providing an improved theory of software development (based on Popper’s) and testing (based on Deutsch's), 
+and providing an improved theory of software development (based on Popper’s) and testing (based on Deutsch's).
 
-which allows various simplifications, 
-
+This allows for various simplifications, 
 notably the elimination of everything probabilistic from the methodology (‘Bayesian’ credences) and from fundamental physics (stochastic processes), and from current AI Programming fundamentalness.
 
 The goal with this right now is to formulate and try to put together a walking skeleton, where a developers can express and manage their tasks in a Can and Cant language.
