@@ -13,7 +13,7 @@ Refuting misconceptions about probability and testing, and curating a daring spe
 
 **Quotes:**
 
-One comparatively simple and comprehensible theory can cover an infinity of indigestible facts.
+One comparatively simple and comprehensible theory can cover an infinity of indigestible facts. - Deutsch FOB
 
 The Science of Can and Can’t sets out in nontechnical terms a new,
 counterfactual mode of explanation based on scientific and philosophical
